@@ -99,3 +99,11 @@ smart-helmet/
 - **Safety Score** (0–100) combining all sensor readings
 - **Live sensor log** (last 50 readings)
 - **Connection status** indicator (LIVE / OFFLINE)
+
+- ## Project Resources
+
+### Project PPT
+https://drive.google.com/https://docs.google.com/presentation/d/18HH_5lr0kZRv0pswEdNDSNMcuC9lt9XT/edit?usp=sharing&ouid=105435174450063552609&rtpof=true&sd=true
+
+### Project Demonstration Video
+https://drive.google.com/https://drive.google.com/file/d/1n1fJteEInrUl05s4R3d41TPzxTEX8wUN/view?usp=sharing
